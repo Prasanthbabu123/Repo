@@ -1,2 +1,3 @@
 ls -al ~/.ssh
 ls -lt
+ls -lrt
